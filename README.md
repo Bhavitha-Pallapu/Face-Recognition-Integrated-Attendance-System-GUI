@@ -17,7 +17,8 @@ MAIN SCREEN:
 
 TAKING ATTENDANCE:
 
-![Screenshot 2024-02-26 105329](https://github.com/dandusaikrishna/Face-Recognition-Integrated-Attendance-System-with-GUI-/assets/138280007/4b837825-eecb-4dcb-b16f-cb445532f2c6)
+![p1](https://github.com/user-attachments/assets/32715f5d-c70b-40cf-a3b1-6354da91c41f)
+
 
 SHOWING ATTENDANCE TAKEN:
 ![Screenshot 2024-08-30 202212](https://github.com/user-attachments/assets/0efa64a2-b0bf-4d0e-b298-4a9f30634be4)
