@@ -1,0 +1,6 @@
+tk
+opencv-python
+opencv-contrib-python
+numpy
+pillow
+pandas
