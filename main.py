@@ -13,10 +13,11 @@ import time
  
 ############################################# FUNCTIONS ################################################
 
-def assure_path_exists(path):
-    dir = os.path.dirname(path)
-    if not os.path.exists(dir):
-        os.makedirs(dir)
+import os
+
+def assure_path_exists(path: str) -> None:
+    """Ensure the directory for the given path exists."""
+    os.makedirs(os.path.dirname(path), exist_ok=True)
 
 ##################################################################################
 
@@ -28,7 +29,7 @@ def tick():
 ###################################################################################
 
 def contact():
-    mess._show(title='Contact us', message="Please contact us on : 'saikrishna630317@gmail.com' ")
+    mess._show(title='Contact us', message="Please contact us on : 'bhavithapallapu@gmail.com' ")
 
 ###################################################################################
 
