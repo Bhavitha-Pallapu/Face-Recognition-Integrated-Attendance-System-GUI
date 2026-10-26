@@ -28,7 +28,7 @@ SHOWING ATTENDANCE TAKEN:
 ![Screenshot 2024-08-30 202212](https://github.com/user-attachments/assets/0efa64a2-b0bf-4d0e-b298-4a9f30634be4)
 
 
-Attendance Report: Summary and Notifications:
+Attendance Report: Summary and Notifications
 
 ![Screenshot 2024-08-30 202304](https://github.com/user-attachments/assets/09ffd7d8-c63d-455d-a83b-05cf8e5c5f60)
 ![Screenshot 2024-08-30 202316](https://github.com/user-attachments/assets/81aaae5b-3e95-4246-a33c-09873b10c77c)![Screenshot 2024-09-04 140557](https://github.com/user-attachments/assets/ebf63a07-9e57-4f1d-afd6-7cc35be1c405)
