@@ -1,4 +1,3 @@
-############################################# IMPORTING ################################################
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox as mess
@@ -352,7 +351,7 @@ mont={'01':'January',
       '12':'December'
       }
 
-######################################## GUI FRONT-END ###########################################
+######################################## FRONT-END ###########################################
 
 window = tk.Tk()
 window.geometry("1280x720")
