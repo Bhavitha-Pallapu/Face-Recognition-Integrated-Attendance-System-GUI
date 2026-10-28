@@ -1,4 +1,6 @@
 tk
+python-decouple>=3.8
+gunicorn>=20.1.0
 opencv-python
 opencv-contrib-python
 numpy
