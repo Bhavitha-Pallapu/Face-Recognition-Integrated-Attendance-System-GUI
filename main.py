@@ -1,4 +1,4 @@
-"""Face Recognition Attendance System (refactored).
+"""Face Recognition Attendance System.
 
 Requires: pip install opencv-contrib-python numpy pillow
 """
